@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="273" height="346" viewBox="0 0 273 346">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_42" data-name="Rectangle 42" width="273" height="346" transform="translate(939 1049)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_7" data-name="Mask Group 7" transform="translate(-939 -1049)" clip-path="url(#clip-path)">
+    <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(1086.99 1165.403)" fill="rgba(255,255,255,0)" stroke="#1a1a1a" stroke-width="1" opacity="0.4">
+      <rect width="372.195" height="372.195" stroke="none"/>
+      <rect x="0.5" y="0.5" width="371.195" height="371.195" fill="none"/>
+    </g>
+    <g id="Rectangle_40" data-name="Rectangle 40" transform="translate(1050.587 1129)" fill="rgba(255,255,255,0)" stroke="#1a1a1a" stroke-width="1" opacity="0.4">
+      <rect width="445" height="445" stroke="none"/>
+      <rect x="0.5" y="0.5" width="444" height="444" fill="none"/>
+    </g>
+    <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(1125.587 1204)" fill="rgba(255,255,255,0)" stroke="#1a1a1a" stroke-width="1" opacity="0.4">
+      <rect width="295" height="295" stroke="none"/>
+      <rect x="0.5" y="0.5" width="294" height="294" fill="none"/>
+    </g>
+    <g id="Rectangle_43" data-name="Rectangle 43" transform="translate(1160.587 1239)" fill="rgba(255,255,255,0)" stroke="#1a1a1a" stroke-width="1" opacity="0.4">
+      <rect width="225" height="225" stroke="none"/>
+      <rect x="0.5" y="0.5" width="224" height="224" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1167.302" height="544.287" viewBox="0 0 1167.302 544.287">
+  <defs>
+    <filter id="Vector_335" x="0" y="0" width="1167.302" height="544.287" filterUnits="userSpaceOnUse">
+      <feOffset dy="24" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="24" result="blur"/>
+      <feFlood flood-color="#3734a9" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_62" data-name="Group 62" transform="translate(-64.507 -1373.711)">
+    <g transform="matrix(1, 0, 0, 1, 64.51, 1373.71)" filter="url(#Vector_335)">
+      <path id="Vector_335-2" data-name="Vector 335" d="M0,307.8c48,35,159.8,101,223,85,79-20,98.5-123,220.5-147s211.5,59.5,306-61S890-14.7,1017,2.3" transform="translate(75.49 50.48)" fill="none" stroke="#23407f" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    </g>
+    <g id="Group_199" data-name="Group 199" transform="translate(16.5 184.984)">
+      <rect id="Rectangle_105" data-name="Rectangle 105" width="64" height="64" rx="20" transform="translate(248 1590)" fill="#fff"/>
+      <rect id="Rectangle_106" data-name="Rectangle 106" width="23" height="23" rx="10" transform="translate(268 1610)" fill="#1a1a1a"/>
+    </g>
+    <g id="Group_199-2" data-name="Group 199" transform="translate(16.5 184.984)">
+      <rect id="Rectangle_105-2" data-name="Rectangle 105" width="64" height="64" rx="20" transform="translate(715 1458)" fill="#fff"/>
+      <rect id="Rectangle_106-2" data-name="Rectangle 106" width="23" height="23" rx="10" transform="translate(735 1478)" fill="#1a1a1a"/>
+    </g>
+    <g id="Group_199-3" data-name="Group 199" transform="translate(16.5 184.984)">
+      <rect id="Rectangle_105-3" data-name="Rectangle 105" width="64" height="64" rx="20" transform="translate(1051 1210)" fill="#fff"/>
+      <rect id="Rectangle_106-3" data-name="Rectangle 106" width="23" height="23" rx="10" transform="translate(1071 1230)" fill="#1a1a1a"/>
+    </g>
+  </g>
+</svg>
